@@ -10,24 +10,13 @@ Whether it’s building innovative features, solving complex technical challenge
 
 ### Here's a bit of what I've worked on and am currently working on:
 
-# [Aqua World Nepal](https://apps.apple.com/ca/app/aqua-world-nepal/id1527237015)
-This was my first solo project at InfoDevelopers. Aqua World Nepal is an e-commerce app designed for ordering water products online. The app provides users with options for online payment or cash on delivery, ensuring a convenient shopping experience.  
-
-During this project, I gained hands-on experience with geolocation and map integration and integrating third-party payment SDKs. The app was built using UIKit and Storyboards, and I successfully published it on the App Store myself.  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/717fc08a-5fd4-4d4a-9e53-da27b676c209", width="200", height="355"/>
-<img src="https://github.com/user-attachments/assets/71521cf3-b5dc-4d10-8f6f-aa4eba9539ce", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/bf3d5451-482a-4f06-89cd-32ee52f572d5", width="200",height="300" />
-<img src="https://github.com/user-attachments/assets/75221a29-68e6-44b5-a575-bce53769ac18", width="200", height="300"/>
-</p>
+# [Hercules - OMS Logistics Dental Surgery Experts] 
 
 ### **Technologies Used**  
-- 💿 **UserDefaults**  
+- 💿 **CoreData**  
 - 🎨 **UIKit**  
 - 🏦 **MapKit**  
-- 🎁 **Geolocation**  
-- 💰 **Payment SDKs** (eSewa, Khalti)  
-- 📲 **Location Push Notifications**  
+- 📲 **Location Push Notifications** 
 
 # [Info mDabali](https://apps.apple.com/ca/app/info-mdabali/id1338667402) | [Natural Smart Banking App](https://apps.apple.com/ca/app/natural-smart-banking-app/id1484319779)
 I contributed to the development of online payment **Info mDabalai** and **Natural Smart Banking App** mobile applications for cooperatives and microfinance organizations. These apps offered various functionalities, including flight booking, recharge or top up service providers like Ncell, Namaste, QR payments, internet/water/electricity bill payments, fund transactions (send and receive), and remittance services.  
@@ -40,4 +29,23 @@ I implemented multiple third-party SDKs and managed dependencies using CocoaPods
 - 🏦 **MapKit**  
 - 🎁 **QR Scanner**  
 - 💰 **Payment SDKs** (eSewa, Khalti)  
-- 📲 **Push Notifications**  
+- 📲 **Push Notifications**
+
+# [Aqua World Nepal](https://apps.apple.com/ca/app/aqua-world-nepal/id1527237015)
+This was my first solo project at InfoDevelopers. Aqua World Nepal is an e-commerce app designed for ordering water products online. The app provides users with options for online payment or cash on delivery, ensuring a convenient shopping experience.  
+
+During this project, I gained hands-on experience with geolocation and map integration and integrating third-party payment SDKs. The app was built using UIKit and Storyboards, and I successfully published it on the App Store myself.  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/717fc08a-5fd4-4d4a-9e53-da27b676c209", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/71521cf3-b5dc-4d10-8f6f-aa4eba9539ce", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/bf3d5451-482a-4f06-89cd-32ee52f572d5", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/75221a29-68e6-44b5-a575-bce53769ac18", width="200", height="300"/>
+</p>
+
+### **Technologies Used**  
+- 💿 **UserDefaults**  
+- 🎨 **UIKit**  
+- 🏦 **MapKit**  
+- 🎁 **Geolocation**  
+- 💰 **Payment SDKs** (eSewa, Khalti)  
+- 📲 **Location Push Notifications**  
