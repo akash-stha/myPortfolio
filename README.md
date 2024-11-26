@@ -14,8 +14,6 @@ Whether it’s building innovative features, solving complex technical challenge
 This was my first solo project at InfoDevelopers. Aqua World Nepal is an e-commerce app designed for ordering water products online. The app provides users with options for online payment or cash on delivery, ensuring a convenient shopping experience.  
 
 During this project, I gained hands-on experience with geolocation and map integration and integrating third-party payment SDKs. The app was built using UIKit and Storyboards, and I successfully published it on the App Store myself.  
-
----
 <p align="center">
 <img src="https://github.com/user-attachments/assets/717fc08a-5fd4-4d4a-9e53-da27b676c209", width="200", height="355"/>
 <img src="https://github.com/user-attachments/assets/71521cf3-b5dc-4d10-8f6f-aa4eba9539ce", width="200",height="300" />
@@ -30,3 +28,16 @@ During this project, I gained hands-on experience with geolocation and map integ
 - 🎁 **Geolocation**  
 - 💰 **Payment SDKs** (eSewa, Khalti)  
 - 📲 **Location Push Notifications**  
+
+# [Info mDabali](https://apps.apple.com/ca/app/info-mdabali/id1338667402) | [Natural Smart Banking App](https://apps.apple.com/ca/app/natural-smart-banking-app/id1484319779)
+I contributed to the development of online payment **Info mDabalai** and **Natural Smart Banking App** mobile applications for cooperatives and microfinance organizations. These apps offered various functionalities, including flight booking, recharge or top up service providers like Ncell, Namaste, QR payments, internet/water/electricity bill payments, fund transactions (send and receive), and remittance services.  
+
+I implemented multiple third-party SDKs and managed dependencies using CocoaPods during this project. I also added push notifications, dark mode support, and localization to provide a multi-language experience for users. I worked on refactoring existing code and developed many new features from scratch, ensuring the apps were efficient and user-friendly. Additionally, I was responsible for publishing updates and bug fixes to the App Store.  
+
+### **Technologies Used**  
+- 💿 **CoreData**  
+- 🎨 **UIKit**  
+- 🏦 **MapKit**  
+- 🎁 **QR Scanner**  
+- 💰 **Payment SDKs** (eSewa, Khalti)  
+- 📲 **Push Notifications**  
