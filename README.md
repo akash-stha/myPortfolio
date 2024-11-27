@@ -2,13 +2,47 @@
 
 ### 👋 Hi! I’m Akash Shrestha, a passionate and experienced iOS Developer with over 3 years of hands-on expertise.
 
-I specialize in designing, developing, and optimizing mobile applications that deliver seamless and engaging user experiences. My journey as an indie iOS Engineer has honed my skills in Swift and SwiftUI, enabling me to create clean, scalable, and user-focused apps. I thrive on collaborating with cross-functional teams to transform ideas into high-quality mobile solutions that can impact users’ lives.
-
-Whether it’s building innovative features, solving complex technical challenges, or refining performance, I’m driven by the opportunity to contribute to apps that reach and inspire millions. Let’s connect and bring great ideas to life! 🚀
+I design and develop mobile apps with a focus on seamless user experiences. As an iOS Engineer, I’ve honed skills in Swift and SwiftUI, creating clean, scalable, and user-focused solutions. I’m passionate about building innovative features, solving challenges, and delivering impactful apps. Let’s connect and create something amazing! 🚀
 
 ---
 
 ### Here's a bit of what I've worked on and am currently working on:
+
+# [Info mDabali](https://apps.apple.com/ca/app/info-mdabali/id1338667402) | [Natural Smart Banking App](https://apps.apple.com/ca/app/natural-smart-banking-app/id1484319779)
+`📲 Available on the App Store`
+
+I contributed to the development of online payment **Info mDabalai** and **Natural Smart Banking App** mobile applications for cooperatives and microfinance organizations. These apps offered various functionalities, including flight booking, recharge or top up service providers like Ncell, Namaste, QR payments, internet/water/electricity bill payments, fund transactions (send and receive), and remittance services.  
+
+I implemented multiple third-party SDKs and managed dependencies using CocoaPods during this project. I also added push notifications, dark mode support, and localization to provide a multi-language experience for users. I worked on refactoring existing code and developed many new features from scratch, ensuring the apps were efficient and user-friendly. Additionally, I was responsible for publishing updates and bug fixes to the App Store.  
+
+### **Technologies Used**  
+- 💿 **CoreData**  
+- 🎨 **UIKit**  
+- 🏦 **MapKit**  
+- 🎁 **QR Scanner**  
+- 💰 **Payment SDKs** (eSewa, Khalti)  
+- 📲 **Push Notifications**
+
+# [Aqua World Nepal](https://apps.apple.com/ca/app/aqua-world-nepal/id1527237015)
+`📲 Available on the App Store`
+
+This was my first solo project at InfoDevelopers. Aqua World Nepal is an e-commerce app designed for ordering water products online. The app provides users with options for online payment or cash on delivery, ensuring a convenient shopping experience.  
+
+During this project, I gained hands-on experience with geolocation and map integration and integrating third-party payment SDKs. The app was built using UIKit and Storyboards, and I successfully published it on the App Store myself.  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/717fc08a-5fd4-4d4a-9e53-da27b676c209", width="200", height="355"/>
+<img src="https://github.com/user-attachments/assets/71521cf3-b5dc-4d10-8f6f-aa4eba9539ce", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/bf3d5451-482a-4f06-89cd-32ee52f572d5", width="200", height="300"/>
+<img src="https://github.com/user-attachments/assets/75221a29-68e6-44b5-a575-bce53769ac18", width="200", height="300"/>
+</p>
+
+### **Technologies Used**  
+- 💿 **UserDefaults**  
+- 🎨 **UIKit**  
+- 🏦 **MapKit**  
+- 🎁 **Geolocation**  
+- 💰 **Payment SDKs** (eSewa, Khalti)  
+- 📲 **Local Push Notifications**  
 
 # [City Map App](https://github.com/akash-stha/CityMap-SwiftUI)  
 
@@ -129,35 +163,3 @@ My role involved working extensively with API calls and API pushes, using tools 
 - 🎨 **UIKit**  
 - 🏦 **MapKit**  
 - 📲 **Push Notifications** 
-
-# [Info mDabali](https://apps.apple.com/ca/app/info-mdabali/id1338667402) | [Natural Smart Banking App](https://apps.apple.com/ca/app/natural-smart-banking-app/id1484319779)
-I contributed to the development of online payment **Info mDabalai** and **Natural Smart Banking App** mobile applications for cooperatives and microfinance organizations. These apps offered various functionalities, including flight booking, recharge or top up service providers like Ncell, Namaste, QR payments, internet/water/electricity bill payments, fund transactions (send and receive), and remittance services.  
-
-I implemented multiple third-party SDKs and managed dependencies using CocoaPods during this project. I also added push notifications, dark mode support, and localization to provide a multi-language experience for users. I worked on refactoring existing code and developed many new features from scratch, ensuring the apps were efficient and user-friendly. Additionally, I was responsible for publishing updates and bug fixes to the App Store.  
-
-### **Technologies Used**  
-- 💿 **CoreData**  
-- 🎨 **UIKit**  
-- 🏦 **MapKit**  
-- 🎁 **QR Scanner**  
-- 💰 **Payment SDKs** (eSewa, Khalti)  
-- 📲 **Push Notifications**
-
-# [Aqua World Nepal](https://apps.apple.com/ca/app/aqua-world-nepal/id1527237015)
-This was my first solo project at InfoDevelopers. Aqua World Nepal is an e-commerce app designed for ordering water products online. The app provides users with options for online payment or cash on delivery, ensuring a convenient shopping experience.  
-
-During this project, I gained hands-on experience with geolocation and map integration and integrating third-party payment SDKs. The app was built using UIKit and Storyboards, and I successfully published it on the App Store myself.  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/717fc08a-5fd4-4d4a-9e53-da27b676c209", width="200", height="355"/>
-<img src="https://github.com/user-attachments/assets/71521cf3-b5dc-4d10-8f6f-aa4eba9539ce", width="200", height="300"/>
-<img src="https://github.com/user-attachments/assets/bf3d5451-482a-4f06-89cd-32ee52f572d5", width="200", height="300"/>
-<img src="https://github.com/user-attachments/assets/75221a29-68e6-44b5-a575-bce53769ac18", width="200", height="300"/>
-</p>
-
-### **Technologies Used**  
-- 💿 **UserDefaults**  
-- 🎨 **UIKit**  
-- 🏦 **MapKit**  
-- 🎁 **Geolocation**  
-- 💰 **Payment SDKs** (eSewa, Khalti)  
-- 📲 **Local Push Notifications**  
