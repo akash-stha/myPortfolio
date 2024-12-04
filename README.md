@@ -1,6 +1,6 @@
 ![Neutral Creative Professional LinkedIn Article Cover Image-2](https://github.com/user-attachments/assets/377080a7-8ebb-4fdb-b6e2-4b4438215535)
 
-### 👋 Hi! I’m Akash Shrestha, a passionate and experienced iOS Developer with over 3 years of hands-on expertise.
+### 👋 Hi! I’m Akash Shrestha, a passionate and experienced iOS Developer with over 5 years of hands-on expertise.
 
 I design and develop mobile apps with a focus on seamless user experiences. As an iOS Engineer, I’ve honed skills in Swift and SwiftUI, creating clean, scalable, and user-focused solutions. I’m passionate about building innovative features, solving challenges, and delivering impactful apps. Let’s connect and create something amazing! 🚀
 
